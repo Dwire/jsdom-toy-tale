@@ -1,5 +1,12 @@
 # Toy Tale
 
+- optimistic vs pesimistic 
+- How to get page not to refresh when increasing likes
+- go over how to use patch for likes
+
+- change global variable using the last .then()
+
+
 You've got a friend in need! Your friend Andy recently misplaced all their toys!
 Help Andy recover their toys and get the toys back in the toy collection.
 
